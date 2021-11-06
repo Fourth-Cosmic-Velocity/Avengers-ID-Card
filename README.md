@@ -21,6 +21,10 @@ https://youtu.be/NYQ6OXBYQ3U
 ## App Link
 https://github.com/Fourth-Cosmic-Velocity/Avengers-ID-Card
 
+## Templates
+https://www.pngegg.com/en/search?q=Avengers+id+card
+
 ## LinkedIn
 https://www.linkedin.com/in/jayakrishnan-k-1519851a1
+
 I am only in LinkedIn! 
