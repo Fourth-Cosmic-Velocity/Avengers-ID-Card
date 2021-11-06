@@ -1,4 +1,5 @@
 # Avengers-ID-Card
+## Introduction
 Android Application with the functionality of Avengers ID Card appearing in Avengers : Earth's Mightiest Heroes
 This is an Android App which functions like the Avengers ID Card appearing in Avengers : Earth's Mightiest Heroes Cartoon Series. 
 
@@ -6,9 +7,8 @@ By this app If you click on the white button in the bottom right corner, The app
 
 ## Procedure
 After installing the app
-1. Give storage permission
-2. Save your preferred potrait image in the aspect ratio near to 15:19 in the folder DCIM inside the Phone Storage. 
-
+1. Give storage permission.
+2. Save your preferred potrait image(jpg format) in the aspect ratio near to 15:19 in the folder DCIM inside the Phone Storage with the name ID.
 If you are using the app with internet then if you click the button, then app in the other phone which have internet access will also give voice alert and post the notification :
 Avengers, Assemble! 
 
